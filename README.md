@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bao</h1>
-<h3 align="center">A passionate frontend developer from Vietnam</h3>
+<h3 align="center">A passionate developer from Vietnam</h3>
 <div align="center">
 <img alt="coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif"/>
 </div>
