@@ -6,7 +6,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-- 🌱 I’m currently working with **ReactJS, Express, NestJS**
+- 🌱 I’m currently working with **ReactJS, NodeJS, Django**
   
 - 📫 How to reach me **ducbao1905@gmail.com**
 
